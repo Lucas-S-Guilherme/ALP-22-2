@@ -66,9 +66,7 @@ namespace CadastroPaciente
             Console.WriteLine("Esse é a seu Sexo: " + sexo);
             Console.ReadKey(); 
             
-            // teste alteração git hub
-            // teste 2
-            // teste 3
+            // git hub 1.04
         }
     }
 }
