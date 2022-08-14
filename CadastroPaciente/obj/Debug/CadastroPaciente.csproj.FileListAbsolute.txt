@@ -1,0 +1,8 @@
+C:\Users\2022202060027\source\repos\CadastroPaciente\bin\Debug\CadastroPaciente.exe.config
+C:\Users\2022202060027\source\repos\CadastroPaciente\bin\Debug\CadastroPaciente.exe
+C:\Users\2022202060027\source\repos\CadastroPaciente\bin\Debug\CadastroPaciente.pdb
+C:\Users\2022202060027\source\repos\CadastroPaciente\obj\Debug\CadastroPaciente.csproj.AssemblyReference.cache
+C:\Users\2022202060027\source\repos\CadastroPaciente\obj\Debug\CadastroPaciente.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022202060027\source\repos\CadastroPaciente\obj\Debug\CadastroPaciente.csproj.CoreCompileInputs.cache
+C:\Users\2022202060027\source\repos\CadastroPaciente\obj\Debug\CadastroPaciente.exe
+C:\Users\2022202060027\source\repos\CadastroPaciente\obj\Debug\CadastroPaciente.pdb
